@@ -1,0 +1,7 @@
+print('Olá')
+print("wanderlei")
+print('Olá', 'wanderlei', 'dieter', 'gabriel', 'felipe')
+print('Olá', 'wanderlei', 'dieter', 'gabriel', 'felipe')
+print('Olá', 'wanderlei', 'dieter', 'gabriel', 'felipe')
+print('Olá', '\nwanderlei', '\ndieter', '\ngabriel', '\nfelipe')
+print('Olá', '\n\twanderlei', '\n\tdieter', '\n\tgabriel', '\n\tfelipe')
