@@ -7,5 +7,5 @@ def soma(numero1, numero2):
     resultado = numero1 + numero2
     return resultado
 
-r = soma(5, 8)
+r = soma(5, 8)  # (r)= variavel
 print(r)
